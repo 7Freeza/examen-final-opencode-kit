@@ -1,0 +1,2 @@
+0e57ef569bc2c7de9617752048f51b058ea478de6d6bc603a644ca9905e4bc52  opencode_install_ubuntu.zip
+2575877736cd4e05f32a96106aab34101b93581c644d5d6601f33de540bebc99  opencode_exam_agent.zip
